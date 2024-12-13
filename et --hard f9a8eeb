@@ -1,0 +1,38 @@
+[33m180c86e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbanned[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 180c86e
+[33m601c7e7[m HEAD@{1}: checkout: moving from main to banned
+[33m180c86e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbanned[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from banned to main
+[33m601c7e7[m HEAD@{3}: rebase (finish): returning to refs/heads/banned
+[33m601c7e7[m HEAD@{4}: rebase (continue): I: band
+[33m180c86e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbanned[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: rebase (start): checkout main
+[33mf9a8eeb[m HEAD@{6}: checkout: moving from main to banned
+[33m180c86e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbanned[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from banned to main
+[33mf9a8eeb[m HEAD@{8}: checkout: moving from main to banned
+[33m180c86e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbanned[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: commit: J: band
+[33m0f56ad5[m HEAD@{10}: checkout: moving from banned to main
+[33mf9a8eeb[m HEAD@{11}: commit: I: band
+[33m0f56ad5[m HEAD@{12}: checkout: moving from main to banned
+[33m0f56ad5[m HEAD@{13}: commit (amend): H: yeah
+[33m492af94[m HEAD@{14}: commit (merge): H: yeah
+[33m64e7c06[m HEAD@{15}: commit: G: rep salesinc
+[33m05d87f7[m HEAD@{16}: checkout: moving from delete_records to main
+[33m912e5bb[m HEAD@{17}: commit: F: delet
+[33m05d87f7[m HEAD@{18}: checkout: moving from main to delete_records
+[33m05d87f7[m HEAD@{19}: merge add_customers: Fast-forward
+[33m9985324[m HEAD@{20}: checkout: moving from add_customers to main
+[33m05d87f7[m HEAD@{21}: commit (amend): E: fine, Greg can have this one
+[33mdd83aaf[m HEAD@{22}: commit (merge): E: fine, Greg can have this one
+[33m036e49d[m HEAD@{23}: reset: moving to 036e49da65690bf47f6be849a278dece0190161e
+[33mccc8618[m HEAD@{24}: commit (merge): E: resolve conflict with stupid Greg's customer
+[33m036e49d[m HEAD@{25}: checkout: moving from main to add_customers
+[33m9985324[m HEAD@{26}: commit: D: add jayson to customers
+[33mad725c8[m HEAD@{27}: checkout: moving from add_customers to main
+[33m036e49d[m HEAD@{28}: commit: C: update customers and partners
+[33mad725c8[m HEAD@{29}: checkout: moving from main to add_customers
+[33mad725c8[m HEAD@{30}: commit: B: recovery
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{31}: checkout: moving from slander to main
+[33m2624459[m HEAD@{32}: commit: B: slander
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{33}: checkout: moving from main to slander
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{34}: checkout: moving from add_contrib to main
+[33m9047ea1[m[33m ([m[1;31morigin/add_contrib[m[33m)[m HEAD@{35}: commit: add myself as a contributor
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{36}: checkout: moving from main to add_contrib
+[33m0d16f95[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{37}: clone: from https://github.com/jdnCreations/megacorp
